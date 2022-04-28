@@ -1,8 +1,7 @@
 function squareArea(input){
     let a = Number(input[0])
-    let squareAreaCount = a *a
-    console.log(squareAreaCount)
+    let area = a * a
+    console.log(area)
 }
 
 
-squareArea((["5"]))
