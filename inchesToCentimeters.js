@@ -3,6 +3,3 @@ function inchesToCentimeters(input){
     let transformation = a * 2.54
     console.log(transformation)
 }
-
-
-inchesToCentimeters(["5"])
