@@ -1,5 +1,5 @@
-function hello(input) {
-    console.log(input)
+function hello() {
+    console.log('Hello SoftUni')
 }
 
-hello(['Hello SoftUni'])
+hello()
