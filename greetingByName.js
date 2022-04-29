@@ -3,4 +3,3 @@ function greetings(input){
     console.log(`Hello, ${name}!`)
 }
 
-greetings(['Lili'])
