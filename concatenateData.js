@@ -4,4 +4,4 @@ function concatenateData(input){
 
 }
 
-concatenateData(['Maria', 'Ivanova', 30, 'Varna'])
+concatenateData(['Maria', 'Ivanova', 30, 'Sofia'])
